@@ -1,0 +1,4 @@
+CEO                                     60000
+Accountant                              30000
+Developer                               25000
+Manager                                 22000
